@@ -1,2 +1,1 @@
-# ImportantData
-My CV,Resume and Related Data.
+My Curriculum Vitae / Resume.
